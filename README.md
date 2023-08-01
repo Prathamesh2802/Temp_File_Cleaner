@@ -1,7 +1,7 @@
 # Temp_File_Cleaner
 
-Removes all the Temporary Files by clicking on a Button
+Removes all temporary files by clicking on a button.
 
 Warning:
 
-Use it at your own Risk. I won't be responsible for any damage caused to your Device.
+Use it at your own risk. I will not be responsible for any damage caused to your device.
